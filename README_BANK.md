@@ -54,52 +54,6 @@ Cette application se distingue par :
 
 ---
 
-## 🎓 Pourquoi Cette Application Est Parfaite pour un Examen
-
-### ✅ Originalité Garantie
-- **Design personnalisé** : CSS unique, pas de template
-- **Fonctionnalités innovantes** : Pas dans les tutoriels standards
-- **Visualisations avancées** : Plotly au lieu de Matplotlib basique
-- **Architecture modulaire** : Code bien organisé
-
-### ✅ Professionnalisme
-- Interface grade entreprise
-- Code commenté et documenté
-- Gestion d'erreurs complète
-- UX/UI soignée
-
-### ✅ Compétences Démontrées
-- **Data Science** : Preprocessing, feature engineering
-- **Machine Learning** : 6+ algorithmes, ensemble learning
-- **Visualisation** : Plotly, Seaborn, Matplotlib
-- **Frontend** : Streamlit, CSS, HTML
-- **Storytelling** : Insights business automatiques
-
----
-
-## 🚀 Installation et Lancement
-
-### Prérequis
-```bash
-Python 3.8+
-pip
-```
-
-### Installation
-```bash
-# 1. Installer les dépendances
-pip install -r requirements_bank.txt
-
-# 2. Vérifier que bank-full.csv est dans le même dossier
-
-# 3. Lancer l'application
-streamlit run bank_marketing_app.py
-```
-
-**🌐 L'application s'ouvre automatiquement sur `http://localhost:8501`**
-
----
-
 ## 📁 Structure du Projet
 
 ```
@@ -133,4 +87,5 @@ Données de campagnes marketing téléphoniques d'une banque portugaise (2008-20
 **Classification binaire déséquilibrée**  
 - ~88% Non (classe majoritaire)
 - ~12% Oui (classe minoritaire)
+
 
