@@ -1,8 +1,3 @@
-"""
-🏦 BANK MARKETING INTELLIGENCE PLATFORM
-Application complète et fonctionnelle pour l'examen
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -616,4 +611,4 @@ if df is not None:
                     st.error(f"Erreur: {e}")
 
 st.markdown("---")
-st.markdown("💻 **Bank Marketing Intelligence** | 🎓 Développé pour l'examen")
+st.markdown("💻 **Bank Marketing Intelligence**
