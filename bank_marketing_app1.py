@@ -611,4 +611,4 @@ if df is not None:
                     st.error(f"Erreur: {e}")
 
 st.markdown("---")
-st.markdown("💻 **Bank Marketing Intelligence**)
+st.markdown("💻 **Bank Marketing Intelligence** | ")
